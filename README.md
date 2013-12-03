@@ -1,2 +1,2 @@
-Kill-the-colony.py
-==================
+Kill-the-colony
+===============
